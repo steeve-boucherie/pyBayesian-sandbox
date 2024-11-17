@@ -1,0 +1,25 @@
+# Data science
+numpy
+scipy
+pandas
+xarray 
+# scikit-learn
+# pydlm
+# Plotting
+matplotlib
+seaborn
+# Bayesian stuff
+statsmodels
+pymc
+# hvplot
+# pythonic <3
+pydantic
+pytest
+pyyaml
+flake8
+# jupyter
+ipykernel
+# package management
+python-dotenv
+# misc
+openpyxl
